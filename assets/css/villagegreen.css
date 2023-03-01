@@ -1,0 +1,40 @@
+*{
+    margin: 0 auto;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    height: auto;
+    width: 1220px;
+    background-color: brown;
+}
+#page{
+    background-color: white;
+}
+header{
+    height: 204px;
+    width: 100%;
+}
+#logo{
+    border-radius: 0% 0% 0% 0%;
+    position: absolute;
+    top: 0px;
+    left: 203px;
+}
+#bandes{
+    width: 100%;
+}
+#imagepub{
+    height: auto;
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 40px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#bannièreprix{
+    padding-left: 40px;
+}
+#imgfooter{
+    width: 100%;
+}
