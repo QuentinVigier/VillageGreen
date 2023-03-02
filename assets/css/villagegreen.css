@@ -35,6 +35,12 @@ header{
 #bannièreprix{
     padding-left: 40px;
 }
+#pictos{
+    width: 100%;
+}
+#ventespartenaires{
+    display: flex;
+}
 #imgfooter{
     width: 100%;
 }
